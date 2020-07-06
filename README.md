@@ -5,3 +5,6 @@
 3. Simulated annealing
 4. Hill climbing algorithm
 5. Random search algorithm
+
+# RESULTS
+![results](https://github.com/Artificial-Intelligence-kosta/Local-search-algorithms-Magic-Square-problem/tree/master/garbage)
