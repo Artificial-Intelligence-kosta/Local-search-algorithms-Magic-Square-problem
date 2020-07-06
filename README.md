@@ -7,4 +7,4 @@
 5. Random search algorithm
 
 # RESULTS
-![results](https://github.com/Artificial-Intelligence-kosta/Local-search-algorithms-Magic-Square-problem/tree/master/garbage)
+![results](https://github.com/Artificial-Intelligence-kosta/Local-search-algorithms-Magic-Square-problem/blob/master/garbage/Untitled.png)
