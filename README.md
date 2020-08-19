@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 #### This repository contains local search algorithms implemented on Magic Square problem (https://en.wikipedia.org/wiki/Magic_square): 
-1. Genethic algorithm
+1. Genetic algorithm
 2. Beam search algorithm
 3. Simulated annealing
 4. Hill climbing algorithm
